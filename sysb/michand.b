@@ -1,7 +1,7 @@
 /*
 This is the source of a test MIC handler task that implements audio input output with a levelmeter.
 
-Implemented by Marc Williams (c) April 2015
+Implemented by Marc (c) December 2015
 
 */
 
